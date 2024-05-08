@@ -3,7 +3,7 @@
 
 # CovidApp
 
-CovidApp is an application developed as part of a project during studies in 2020, based on the Django framework. The app provides access to the latest data on the COVID-19 pandemic through a public API.
+CovidApp is a simple application developed as part of a project during studies in 2020, based on the Django framework. The app provides access to the latest data on the COVID-19 pandemic through a public API.
 
 ## Features
 
